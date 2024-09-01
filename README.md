@@ -1,1 +1,1 @@
-# Login-Page
+This image showcases the login page of the application. The design features a dark-themed background with a glowing yellow outline around the sign-in form. Users can log in using their email or username and password. The page includes an option to remember the user, and a bold yellow login button is prominently displayed at the center. Below the login button, there's a link for users who need to sign up for a new account.
